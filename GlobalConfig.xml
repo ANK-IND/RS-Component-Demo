@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<GlobalSettings>
+
+    <ToolConfiguration>
+        <Browser>CHROME</Browser>
+        <BrowserVersion>57</BrowserVersion>
+        <ImplicitWaitTimeout>5</ImplicitWaitTimeout>
+        <OSNAME>MAC</OSNAME>
+    </ToolConfiguration>
+
+    <ApplicationSettings>
+        <URL>https://uk.rs-online.com/web/</URL>
+        <UserName>userName</UserName>
+        <Password>password</Password>
+
+    </ApplicationSettings>
+</GlobalSettings>

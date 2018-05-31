@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6179a845-e636-4311-ae78-4ee9286e972b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RSTestRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Runner/RSTestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Utilities/RunConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Utilities/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductDetailsPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/ProductDetailsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GlobalConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrationPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/RegistrationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchResultsPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/SearchResultsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\?xml version\=\&quot;1\.0\&quot; encoding\=\&quot;UTF\-8\&quot;\?\&gt;\n\&lt;project xmlns\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0\&quot;\n         xmlns\:xsi\=\&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n         xsi\:schemaLocation\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0 http\:\/\/maven\.apache\.org\/xsd\/maven\-4\.0\.0\.xsd\&quot;\&gt;\n    \&lt;modelVersion\&gt;4\.0\.0\&lt;\/modelVersion\&gt;\n\n    \&lt;groupId\&gt;RSComponentDemo\&lt;\/groupId\&gt;\n    \&lt;artifactId\&gt;RSComponentDemo\&lt;\/artifactId\&gt;\n    \&lt;version\&gt;1\.0\-SNAPSHOT\&lt;\/version\&gt;\n\n    \&lt;dependencies\&gt;\n    \&lt;dependency\&gt;\n        \&lt;groupId\&gt;org\.seleniumhq\.selenium\&lt;\/groupId\&gt;\n        \&lt;artifactId\&gt;selenium\-java\&lt;\/artifactId\&gt;\n        \&lt;version\&gt;3\.7\.1\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\n    \&lt;dependency\&gt;\n        \&lt;groupId\&gt;org\.seleniumhq\.selenium\&lt;\/groupId\&gt;\n        \&lt;artifactId\&gt;selenium\-server\&lt;\/artifactId\&gt;\n        \&lt;version\&gt;3\.7\.1\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\&lt;dependency\&gt;\n    \&lt;groupId\&gt;info\.cukes\&lt;\/groupId\&gt;\n    \&lt;artifactId\&gt;cucumber\-java\&lt;\/artifactId\&gt;\n    \&lt;version\&gt;1\.2\.5\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\n    \&lt;dependency\&gt;\n        \&lt;groupId\&gt;info\.cukes\&lt;\/groupId\&gt;\n        \&lt;artifactId\&gt;cucumber\-core\&lt;\/artifactId\&gt;\n        \&lt;version\&gt;1\.2\.5\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\n    \&lt;dependency\&gt;\n        \&lt;groupId\&gt;info\.cukes\&lt;\/groupId\&gt;\n        \&lt;artifactId\&gt;cucumber\-picocontainer\&lt;\/artifactId\&gt;\n        \&lt;version\&gt;1\.2\.5\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\n    \&lt;dependency\&gt;\n        \&lt;groupId\&gt;info\.cukes\&lt;\/groupId\&gt;\n        \&lt;artifactId\&gt;cucumber\-testng\&lt;\/artifactId\&gt;\n        \&lt;version\&gt;1\.2\.5\&lt;\/version\&gt;\n    \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;info\.cukes\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;cucumber\-junit\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;1\.2\.5\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;\!\-\- Extent Report \&amp; Cucumber Report generation Dependencies \-\-\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;com\.vimalselvam\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;cucumber\-extentsreport\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.0\.2\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;com\.aventstack\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;extentreports\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.1\.2\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;net\.masterthought\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;cucumber\-reporting\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;3\.13\.0\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;junit\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;junit\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;4\.12\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n    \&lt;\/dependencies\&gt;\n    \&lt;build\&gt;\n        \&lt;plugins\&gt;\n            \&lt;plugin\&gt;\n                \&lt;groupId\&gt;org\.apache\.maven\.plugins\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;maven\-compiler\-plugin\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;3\.7\.0\&lt;\/version\&gt;\n                \&lt;configuration\&gt;\n                    \&lt;source\&gt;1\.8\&lt;\/source\&gt;\n                    \&lt;target\&gt;1\.8\&lt;\/target\&gt;\n                \&lt;\/configuration\&gt;\n            \&lt;\/plugin\&gt;\n        \&lt;\/plugins\&gt;\n    \&lt;\/build\&gt;\n\n\n\n\n\n\n\&lt;\/project\&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/Features</dir>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GlobalConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Login.Feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Search/Search.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/TestSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/SearchResultsSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/CheckOut.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Search.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/CheckOut.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Registration.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Utilities/TempVariable.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Reporter/ExtentConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/ExtentConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ExtentReport/ExtentConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/RegistrationSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/SearchResultsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/BasketSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/DeliveryDetailStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/DeliveryDetailSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/ProductDetailSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Login.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/ProductDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Features/Checkout.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/HomePageSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/BasketSummaryPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/DeliveryAddressPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Runner/RSTestRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Utilities/RunConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StepDefinitions/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Utilities/DriverFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1270" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RSComponentDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RSComponents" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ExtentReport" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/Reporter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RSTestRunner">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Feature: Checkout" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="RSComponents" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Register as a new user and checkout (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="RSComponents" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Register as a new user and checkout$&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Register as a new user and checkout (3)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="RSComponents" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Register as a new user and checkout$&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Register as a new user and checkout" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="RSComponents" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Register as a new user and checkout$&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RSTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RSComponents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.Runner.RSTestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.Runner" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RSTestRunner" />
+      <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout (2)" />
+      <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout (3)" />
+      <item itemvalue="Cucumber java.Feature: Checkout" />
+      <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RSTestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout" />
+        <item itemvalue="Cucumber java.Feature: Checkout" />
+        <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout (3)" />
+        <item itemvalue="Cucumber java.Scenario: Register as a new user and checkout (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6179a845-e636-4311-ae78-4ee9286e972b" name="Default" comment="" />
+      <created>1527275506739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527275506739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 12m 00s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 12m 24s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 14m 41s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 15m 54s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 18m 23s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 19m 54s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 25m 33s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 32m 33s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 33m 10s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RSTestRunner - 2018.05.31 at 05h 38m 22s.xml">
+      <configuration name="RSTestRunner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1270" height="688" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32994923" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50162864" side_tool="true" weight="0.3282572" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49917898" weight="0.31641287" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49837133" weight="0.3282572" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49622166" visible="true" weight="0.21091205" />
+      <window_info id="Structure" order="4" sideWeight="0.50377834" side_tool="true" weight="0.28908795" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49835795" weight="0.3604061" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32994923" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3282572" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3282572" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49622166" weight="0.20765473" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49917898" weight="0.31641287" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32994923" />
+      <window_info id="Structure" order="4" sideWeight="0.50377834" side_tool="true" weight="0.28908795" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32994923" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="0" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" sideWeight="0.49835795" visible="true" weight="0.3604061" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49837133" weight="0.3282572" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50162864" side_tool="true" weight="0.3282572" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3282572" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3282572" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Pages/SearchResultsPage.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Pages/BasketSummaryPage.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="productCount" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>driver.findElement(By.id(&quot;loginForm:LoginWidgetAction_username_decorate:LoginWidgetAction_username&quot;)).sendKeys(&quot;aadf&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.id(&quot;driver.findElement(txtQty).sendKeys(quantity)&quot;)).sendKeys(&quot;hello&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.id(&quot;js-basketQty&quot;)).getText();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;//span[contains(text(),'Continue to order review')]&quot;)).isDisplayed()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.id(&quot;deliveryCollectionForm:AddLoggedInUserDeliveryAddressWidgetAction_addressLineThree_decorate:AddLoggedInUserDeliveryAddressWidgetAction_addressLineThree&quot;)).sendKeys(&quot;cc&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;//span[contains(text(),'Continue to payment')]&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;//span[contains(text(),'Continue to payment')]&quot;)).isDisplayed();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>//driver.findElement(By.id(&quot;js-branchCollectionBtn&quot;)).click();
+Select ss=new Select(driver.findElement(By.id(&quot;shoppingBasketForm:tradecounterDropDown&quot;));
+((Select) ss).selectByValue(&quot;7554184&quot;);
+//driver.findElement(By.xpath(&quot;//*[@id='deliveryAndCollectionSelector']/div[1]/button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.support.ui.Select</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>//driver.findElement(By.id(&quot;js-branchCollectionBtn&quot;)).click();
+Select ss=new Select(driver.findElement(By.id(&quot;shoppingBasketForm:tradecounterDropDown&quot;));
+((Select) ss).selectByValue(&quot;7554186&quot;);
+//driver.findElement(By.xpath(&quot;//*[@id='deliveryAndCollectionSelector']/div[1]/button&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.support.ui.Select</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>WebElement e=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>WebElement e=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getAttribute();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>WebElement e=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getAttribute()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getAttribute()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s1=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getcssValue();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s1=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getAttribute();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s1=driver.findElement(By.cssSelector(&quot;td.quantityTd&gt;input&quot;)).getText();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s1=driver.findElement(By.cssSelector(&quot;td.quantityTd&quot;)).getText();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String s</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/api/CucumberOptions.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Search/feature.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.7.1/selenium-api-3.7.1.jar!/org/openqa/selenium/By.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/TestSteps.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Timeout.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/SearchResultsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/formatter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar!/cucumber/api/junit/Cucumber.class" />
+    <entry file="file://$PROJECT_DIR$/target/classes/com/Features/Search.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/CheckOut.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/RuntimeOptions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1.jar!/cucumber/api/cli/Main.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1.jar!/cucumber/runtime/RuntimeOptions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1-sources.jar!/cucumber/api/cli/Main.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1-sources.jar!/cucumber/runtime/RuntimeOptions.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reporter/ExtentConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Utilities/TempVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vimalselvam/cucumber-extentsreport/3.0.2/cucumber-extentsreport-3.0.2.jar!/com/cucumber/listener/Reporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/StepDefinitionMatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ExtentReport/ExtentConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.7.1/selenium-remote-driver-3.7.1.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/RegistrationSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Login/feature.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Registration.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Search.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/FeatureBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/ProductDetailSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/BasketSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/HomePageSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Features/Checkout.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/DeliveryDetailSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/BasketSummaryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/DeliveryAddressPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/ProductDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/SearchResultsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Runner/RSTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Utilities/RunConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StepDefinitions/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Utilities/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RSComponents</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
